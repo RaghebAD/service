@@ -17,8 +17,10 @@
   "provision_ACL": false,
   "oauth": false,
   "tenant_Profile": true,
-  "subtype": "servicetest suubtype",
-  "tab": "servicetest tab",
+  "tab":{
+    "main": "servicetest main",
+    "sub": "servicetest subtype"
+  },
   "maintenance": {
     "port": {
       "type": "inherit"
