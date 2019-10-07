@@ -74,13 +74,13 @@ module.exports = {
                 },
             }
         },
-        // "test": {
-        //     '/testOther': {
-        //         "_apiInfo": {
-        //             "l": "test other",
-        //             "group": "Other"
-        //         },
-        //     }
-        // }
+        "test": {
+            '/testOther': {
+                "_apiInfo": {
+                    "l": "test other",
+                    "group": "Other"
+                },
+            }
+        }
     }
 };
